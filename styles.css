@@ -126,6 +126,152 @@ body{
     color: lightseagreen;
 }
 
+/* Basketball page */
+.basketball-image-wrapper img{
+    width: 100%
+}
+
+.basketball-content-wrapper{
+    padding: 30px;
+}
+
+.basketball-content-wrapper h1{
+    color: orange;
+}
+
+
+/* Brewing page */
+.brew-image-wrapper img{
+    width: 100%
+}
+
+.brew-content-wrapper{
+    padding: 30px;
+}
+
+.brew-content-wrapper h1{
+    color: brown;
+}
+
+
+/* Code page */
+.code-image-wrapper img{
+    width: 100%
+}
+
+.code-content-wrapper{
+    padding: 30px;
+}
+
+.code-content-wrapper h1{
+    color: green;
+}
+
+
+/* Contact page */
+.contact-image-wrapper img{
+    width: 100%
+}
+
+.contact-content-wrapper{
+    padding: 30px;
+}
+
+.contact-content-wrapper h1{
+    color: blue;
+}
+
+/* DIY page */
+.diy-image-wrapper img{
+    width: 100%
+}
+
+.diy-content-wrapper{
+    padding: 30px;
+}
+
+.diy-content-wrapper h1{
+    color: brown;
+}
+
+/* Guitar page */
+.guitar-image-wrapper img{
+    width: 100%
+}
+
+.guitar-content-wrapper{
+    padding: 30px;
+}
+
+.guitar-content-wrapper h1{
+    color: black;
+}
+
+/* Karnes page */
+.karnes-image-wrapper img{
+    width: 100%
+}
+
+.karnes-content-wrapper{
+    padding: 30px;
+}
+
+.karnes-content-wrapper h1{
+    color: orange;
+}
+
+/* Running page */
+.running-image-wrapper img{
+    width: 100%
+}
+
+.running-content-wrapper{
+    padding: 30px;
+}
+
+.running-content-wrapper h1{
+    color: blue;
+}
+
+/* Traffic page */
+.traffic-image-wrapper img{
+    width: 100%
+}
+
+.traffic-content-wrapper{
+    padding: 30px;
+}
+
+.traffic-content-wrapper h1{
+    color: black;
+}
+
+/* Travel page */
+.travel-image-wrapper img{
+    width: 100%
+}
+
+.travel-content-wrapper{
+    padding: 30px;
+}
+
+.travel-content-wrapper h1{
+    color: green;
+}
+
+/* Texas State page */
+.txstate-image-wrapper img{
+    width: 100%
+}
+
+.txstate-content-wrapper{
+    padding: 30px;
+}
+
+.txstate-content-wrapper h1{
+    color: maroon;
+}
+
 /* Woodworking page */
 .wood-image-wrapper img{
     width: 100%
