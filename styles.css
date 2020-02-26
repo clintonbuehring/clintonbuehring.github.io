@@ -125,3 +125,16 @@ body{
 .profile-content-wrapper h1{
     color: lightseagreen;
 }
+
+/* Woodworking page */
+.wood-image-wrapper img{
+    width: 50%
+}
+
+.wood-content-wrapper{
+    padding: 30px;
+}
+
+.wood-content-wrapper h1{
+    color: brown;
+}
