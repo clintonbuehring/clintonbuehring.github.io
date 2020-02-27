@@ -282,6 +282,11 @@ body{
 }
 
 /* Woodworking page */
+
+.wood-container{
+    background-color: brown;
+}
+
 .wood-image-wrapper img{
     width: 100%
 }
@@ -291,5 +296,5 @@ body{
 }
 
 .wood-content-wrapper h1{
-    color: brown;
+    color: white;
 }
