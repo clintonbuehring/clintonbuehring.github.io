@@ -260,6 +260,11 @@ body{
 }
 
 /* Texas State page */
+
+.txState-container{
+    background-color: grey;
+}
+
 .txstate-image-wrapper img{
     width: 100%
 }
