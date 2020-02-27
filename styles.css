@@ -262,7 +262,7 @@ body{
 /* Texas State page */
 
 .txState-container{
-    background-color: grey;
+    background-color: maroon;
 }
 
 .txstate-image-wrapper img{
@@ -274,7 +274,11 @@ body{
 }
 
 .txstate-content-wrapper h1{
-    color: maroon;
+    color: gold;
+}
+
+.txstate-content-wrapper p{
+    color: white;
 }
 
 /* Woodworking page */
