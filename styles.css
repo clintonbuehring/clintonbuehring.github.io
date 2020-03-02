@@ -247,6 +247,11 @@ body{
 }
 
 /* Travel page */
+
+.travel-container{
+    background-color: blue;
+}
+
 .travel-image-wrapper img{
     width: 100%
 }
