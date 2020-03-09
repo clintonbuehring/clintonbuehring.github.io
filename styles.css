@@ -169,13 +169,16 @@ body{
 }
 
 .code-content-wrapper h1{
-    color: green;
+    color: Chartreuse;
 }
 
 .code-content-wrapper h3{
-    color: green;   
+    color: Chartreuse;   
 }
 
+.code-content-wrapper p{
+    color: Chartreuse;   
+}
 
 /* Contact page */
 .contact-image-wrapper img{
