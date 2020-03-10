@@ -168,6 +168,10 @@ body{
     padding: 30px;
 }
 
+.code-left-wrapper h1{
+    color: Chartreuse;
+}
+
 .code-content-wrapper h1{
     color: Chartreuse;
 }
